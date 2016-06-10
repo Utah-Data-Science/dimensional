@@ -1,0 +1,6 @@
+# Ignore any local build tools
+setuptools*
+
+# Allow local todo lists
+TODO.rst
+
