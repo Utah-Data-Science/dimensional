@@ -4,3 +4,20 @@ setuptools*
 # Allow local todo lists
 TODO.rst
 
+# Ignore pycache
+__pycache__
+
+# Ignore local test data
+data
+
+# Ignore any generated code
+*.pyc
+
+# Ignore Environment configuration
+.env
+
+# Ignore tmp
+tmp
+
+# Ignore manual tests
+manual_tests

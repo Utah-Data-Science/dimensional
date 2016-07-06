@@ -1,0 +1,2 @@
+class ReturnObject(object):
+  pass
