@@ -21,3 +21,10 @@ tmp
 
 # Ignore manual tests
 manual_tests
+
+# Ignore local configuration
+.dim
+
+# Ignore CharmPy files
+.idea
+

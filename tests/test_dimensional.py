@@ -1,5 +1,9 @@
 import unittest
-from unittest.mock import MagicMock
+
+try:
+    from unittest.mock import MagicMock
+except:
+    from mock import MagicMock
 
 class Bar(object):
 
